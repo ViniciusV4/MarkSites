@@ -8,7 +8,7 @@
 ![home page](https://github.com/ViniciusV4/MarkSites/blob/main/site/home.png)
 
 ## Resources:
-![Resources](https://github.com/ViniciusV4/MarkSites/blob/main/site/home.png)
+![Resources](https://github.com/ViniciusV4/MarkSites/blob/main/site/recursosPag2.png)
 
 ## Share:
 ![Share](https://github.com/ViniciusV4/MarkSites/blob/main/site/compartilhePag3.png)
